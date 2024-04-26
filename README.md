@@ -1,5 +1,7 @@
 # Detect traffic anomaly to predict accidents
  
+Research project 2022-2023
+
 Full code for running on Google Colab (with visualization): final full code.ipynb
 
 extract_motion_mask.py: extract motion mask
