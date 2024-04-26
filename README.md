@@ -1,4 +1,4 @@
-# Detect-traffic-anomaly-Youtube-data
+# Detect traffic anomaly to predict accidents
  
 Full code for running on Google Colab (with visualization): final full code.ipynb
 
